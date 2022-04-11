@@ -6,4 +6,8 @@ https://metagame.wtf/
 
 **People's**
 
-https://peoples.on.fleek.co/
+https://showcase.ethglobal.com/lfgrow/people-s-9cmwz
+
+**DAOQuest**
+
+https://showcase.ethglobal.com/daohacks/daoquest-7cogz

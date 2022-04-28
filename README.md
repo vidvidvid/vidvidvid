@@ -7,7 +7,7 @@ Github: https://github.com/MetaFam/TheGame
 
 **DAOQuest** (ETHGlobal finalist!)
 
-App: https://questchains.xyz/explore
+App: https://questchains.xyz/explore  
 ETHGlobal: https://showcase.ethglobal.com/daohacks/daoquest-7cogz  
 GitHub: https://github.com/vidvidvid/DAOQuest
 

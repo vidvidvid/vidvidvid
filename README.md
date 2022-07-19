@@ -9,7 +9,7 @@ Github: https://github.com/MetaFam/TheGame
 
 App: https://questchains.xyz/  
 ETHGlobal: https://showcase.ethglobal.com/daohacks/daoquest-7cogz  
-GitHub: https://github.com/quest-chains/dao-quest-chains/
+GitHub: https://github.com/quest-chains
 
 **People's**
 

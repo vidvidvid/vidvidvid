@@ -16,7 +16,8 @@ Github: https://github.com/MetaFam/TheGame
 **Smart Reader** _is a dynamic and interactive informational sandbox for leveling up on smart contracts._  
 
 App: https://smart-reader-vidvidvid.vercel.app/  
-GitHub: https://github.com/vidvidvid/smart-reader/
+GitHub: https://github.com/vidvidvid/smart-reader/  
+BuidlBox: https://app.buidlbox.io/projects/smart-reader
 
 **People's** _is a social app built on Lens_  
 

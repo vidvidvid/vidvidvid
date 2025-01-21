@@ -1,39 +1,38 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidvidvid&show_icons=true&theme=tokyonight)
+# Vid Topolovec
 
-**Hats Protocol** 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vidvidvid&show_icons=true&theme=tokyonight)
 
-_DAO-native way to structure your organization, empowering contributors with the context, authorities, and accountabilities they need to get things done._
+Frontend developer and project manager specializing in Web3, DeFi, and AI solutions. Based in Ljubljana, building decentralized futures.
 
-https://www.hatsprotocol.xyz/
+## Web3 Projects
 
-**Quest Chains** 
+**Current Web3 Leadership**
+- Frontend Lead for [Optimism's Retroactive Funding](https://app.optimism.io/retropgf) (Rounds 5 & 6)
+- Frontend Development for [Arbitrum's Long Term Incentive Program](https://arbitrumfoundation.io/long-term-incentive-program)
+- OP Claim Tool Development for [Optimism](https://claim-tool-optimism-production.up.railway.app/) & [zkSync](https://zksync.gitcoin.co/)
 
-*is a protocol, an SDK, and a platform that allows users to create and complete quests.*  
+**[Ionic Protocol](https://ionic.money/)**  
+Lead developer for DeFi lending platform's user interface.
 
-App: https://questchains.xyz/  
-ETHGlobal: https://showcase.ethglobal.com/daohacks/daoquest-7cogz  
-GitHub: https://github.com/quest-chains  
-Twitter: https://twitter.com/questchainz
+**[Hats Protocol](https://www.hatsprotocol.xyz/)**  
+DAO-native organizational structure enabling programmable roles and automated permission management.
 
-**MetaGame** 
+**[MetaGame](https://metagame.wtf/)**  
+Building massive online coordination game with NextJS, TypeScript, and Hasura.
+- [GitHub](https://github.com/MetaFam/TheGame)
 
-*is A DAO building a massive online coordination game about finding the most optimal ways to play life on a personal AND the collective level 🐙*  
+## AI Projects
 
-App: https://metagame.wtf/  
-Github: https://github.com/MetaFam/TheGame
+**[JanitorAI](https://janitorai.com)**  
+Lead developer for AI chat platform interface, focusing on customizable AI interactions.
 
-**Smart Reader** 
+**[Smart Reader](https://smart-reader-vidvidvid.vercel.app/)**  
+AI-powered document analysis tool for smart contracts.
+- [GitHub](https://github.com/vidvidvid/smart-reader/)
+- [BuidlBox](https://app.buidlbox.io/projects/smart-reader)
 
-_is a dynamic and interactive informational sandbox for leveling up on smart contracts._  
+**[Pixel Moss](https://pixel-moss.vercel.app/)**  
+IoT Art Project combining Arduino sensors with AI for interactive art installations.
 
-App: https://smart-reader-vidvidvid.vercel.app/  
-GitHub: https://github.com/vidvidvid/smart-reader/  
-BuidlBox: https://app.buidlbox.io/projects/smart-reader
-
-**People's** 
-
-_is a social app built on Lens_  
-
-ETHGlobal: https://showcase.ethglobal.com/lfgrow/people-s-9cmwz  
-GitHub: https://github.com/People-s/peoples-app/
-
+**Solana Trading Agent**  
+AI trading agent using the Eliza framework (In Development).
